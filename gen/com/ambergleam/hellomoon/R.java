@@ -25,7 +25,7 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int fragmentContainer=0x7f080000;
+        public static final int helloMoonFragment=0x7f080000;
         public static final int hellomoon_playButton=0x7f080001;
         public static final int hellomoon_stopButton=0x7f080002;
     }
