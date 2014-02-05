@@ -26,8 +26,9 @@ public final class R {
     }
     public static final class id {
         public static final int helloMoonFragment=0x7f080000;
+        public static final int hellomoon_pauseButton=0x7f080002;
         public static final int hellomoon_playButton=0x7f080001;
-        public static final int hellomoon_stopButton=0x7f080002;
+        public static final int hellomoon_stopButton=0x7f080003;
     }
     public static final class layout {
         public static final int activity_hello_moon=0x7f030000;
@@ -39,9 +40,11 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f060000;
-        public static final int hellomoon_description=0x7f060003;
+        public static final int hellomoon_description=0x7f060005;
+        public static final int hellomoon_pause=0x7f060002;
         public static final int hellomoon_play=0x7f060001;
-        public static final int hellomoon_stop=0x7f060002;
+        public static final int hellomoon_resume=0x7f060003;
+        public static final int hellomoon_stop=0x7f060004;
     }
     public static final class style {
         /** 
